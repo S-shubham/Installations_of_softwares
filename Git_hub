@@ -1,0 +1,49 @@
+https://www.youtube.com/watch?v=J_Clau1bYco
+
+
+step 1:Search Google for Git
+step 2:Download the windows version
+step 3:Once downloaded run the file and go with all the default options uptill you get this option
+        * how would you like to use git from command line
+        * choose the last option( use git and optional unix tools)
+step 4:continue with the default options uptill end.
+step 5:Select launch Git bash and deselect the "Launch github options"
+step 6:Here you are done with the installations 
+
+start using it :
+In the git bash:
+type:
+step 1: cd /c 
+      * this will change to c directory 
+step 2: ls
+      * this will list all the files or directories in this folder
+step 3: create a "Git" folder in the C directory
+step 4: cd Git/
+step 5: Now we will clone one of our git repository in this Git folder
+step 6: Open any repository and click on "Clone or Download" option
+step 7: click the small icon to the right "copy to clipboard"
+
+Before we proceed we need to configure our Git account" that means connect your PC with the GitHub"
+In order to do that follow these steps 
+
+step 7.1 : git config --global user.name "Your git hub user name"
+          * for ex. mine is git config --global user.name "S-shubham"
+step 7.2: git config --global user.email" type your registered email"
+
+Now we are ready to clone the file from the git hub
+
+step 8: git clone path
+    * where path= one which you copied from the repository
+
+Now we can see the repository has been downloaded to our PC
+Next we would like to add a new file to it and upload it to our git repository
+
+step 9: Create a text file and save it in the repo folder and then you need to commit it and upload it to the git server
+
+step 10: git commit -m "Any message if " filename
+
+step 11: git push -u origin master
+
+Now you will see that the commit has been made to the github and uploaded to server 
+
+Congraculations...........You did it Successfully !!!!!!!!!!!!!!!!!!!!
