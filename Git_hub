@@ -16,7 +16,7 @@ type:
 step 1: cd /c 
       * this will change to c directory 
 step 2: ls
-      * this will list all the files or directories in this folder
+      * this will list all the  files or directories in this folder
 step 3: create a "Git" folder in the C directory
 step 4: cd Git/
 step 5: Now we will clone one of our git repository in this Git folder
