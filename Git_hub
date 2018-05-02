@@ -35,7 +35,7 @@ Now we are ready to clone the file from the git hub
 step 8: git clone path
     * where path= one which you copied from the repository
 
-Now we can see the repository has been downloaded to our PC
+Now we can see the repository has been downloaded to our  PC
 Next we would like to add a new file to it and upload it to our git repository
 
 step 9: Create a text file and save it in the repo folder and then you need to commit it and upload it to the git server
